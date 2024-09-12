@@ -19,18 +19,6 @@ graph TD
     G -->|OLA Krutrim Cloud| K[Monitoring & Logging]
     K -->|OLA Krutrim Cloud| L[CI/CD Pipelines]
 
-    style A fill:#ffcc00,stroke:#333,stroke-width:2px;
-    style B fill:#ffcc00,stroke:#333,stroke-width:2px;
-    style C fill:#ffcc00,stroke:#333,stroke-width:2px;
-    style D fill:#00ccff,stroke:#333,stroke-width:2px;
-    style E fill:#00ccff,stroke:#333,stroke-width:2px;
-    style F fill:#00ccff,stroke:#333,stroke-width:2px;
-    style G fill:#00ccff,stroke:#333,stroke-width:2px;
-    style H fill:#ff9966,stroke:#333,stroke-width:2px;
-    style I fill:#66ff99,stroke:#333,stroke-width:2px;
-    style J fill:#66ff99,stroke:#333,stroke-width:2px;
-    style K fill:#00ccff,stroke:#333,stroke-width:2px;
-    style L fill:#00ccff,stroke:#333,stroke-width:2px;
 
 
 
